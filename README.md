@@ -30,3 +30,4 @@ My Data tools
 
 
 https://img.shields.io/badge/<Data Analytics>-<✅>-<inactive>
+![image](https://github.com/SantiagoLingeri/SantiagoLingeri/assets/85772100/778feb73-baea-4883-bc9b-d0163f9953c9)
