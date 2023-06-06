@@ -15,7 +15,7 @@
 
 [![Excel](https://img.shields.io/badge/MS%20Excel-217346?style=for-the-badge&logo=microsoftexcel&logocolor=white&labelColor=black)](https://www.microsoft.com/en-us/microsoft-365/excel)</br>
 
-[![SQL](https://img.shields.io/badge/SQL-0700C4?style=for-the-badge&logo=Microsoft%20SQL%20Server)](https://www.microsoft.com/en-us/sql-server)</br>
+[![SQL](https://img.shields.io/badge/SQL-0700C4?style=for-the-badge&logo=googlecloud&logocolor=white&labelColor=black)](https://www.microsoft.com/en-us/sql-server)</br>
 
 
 
