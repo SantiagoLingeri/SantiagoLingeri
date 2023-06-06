@@ -1,9 +1,11 @@
-# Hi, I'm Santiago Lingeri 👋
-**Jr Data Analyst / People Analyst**
+                                                                                # Hi, I'm Santiago Lingeri 👋
+
 
 ## About me
+As a Data Analyst I enjoy helping make decisions based on data and a goal oriented mindset.
+As a People Analyst, I strongly believe that improving people's everyday experience leads to teams and companies' success.
 
-..........
+
 
 ## Skills
 
