@@ -1,5 +1,5 @@
 # Hi, I'm Santiago Lingeri 👋
-*Jr Data Analyst & People Analyst*
+### **Jr Data Analyst / People Analyst**
 
 ## About me
 
