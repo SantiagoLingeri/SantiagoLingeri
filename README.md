@@ -27,3 +27,6 @@ My Data tools
 [![Power BI](https://img.shields.io/badge/Power%20BI-Public%20Work-yellow?logo=power-bi)](https://app.powerbi.com/groups/me/apps/your-public-work-id/dashboards)
 
 [![Tableau](https://img.shields.io/badge/Tableau-Public%20Profile-blueviolet?logo=tableau)](https://public.tableau.com/profile/your-tableau-username)
+
+
+https://img.shields.io/badge/<Data Analytics>-<✅>-<inactive>
