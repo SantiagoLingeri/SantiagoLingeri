@@ -21,17 +21,9 @@
 
 [![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=E97627&labelColor=black)](https://www.tableau.com/)</br>
 
-[![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white&labelColor=black)](https://www.tableau.com/)</br>
+[![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white&labelColor=black)](https://pandas.pydata.org/)</br>
 
-
-[![Python](https://img.shields.io/badge/Python-3.x-blue?logo=python)](https://www.python.org/)
-[![Excel](https://img.shields.io/badge/Excel-217346?logo=microsoftexcel)](https://www.microsoft.com/en-us/microsoft-365/excel)
-
-[![Power BI](https://img.shields.io/badge/Power%20BI-Desktop-yellow?logo=power-bi)](https://powerbi.microsoft.com/)
-[![Tableau](https://img.shields.io/badge/Tableau-Data%20Visualization-blueviolet?logo=tableau)](https://www.tableau.com/)
-
-[![SQL](https://img.shields.io/badge/SQL-Database-red?logo=sql)](https://en.wikipedia.org/wiki/SQL)
-    [![MySQL](https://img.shields.io/badge/MySQL-Database-orange?logo=mysql)](https://www.mysql.com/)
+[![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=openai&logoColor=white&labelColor=black)](https://pandas.pydata.org/)</br>
 
 ## Contact me :smile:
 
