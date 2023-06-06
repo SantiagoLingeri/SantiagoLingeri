@@ -1,7 +1,5 @@
-# Hi there 👋
-
-## I'm Santiago Lingeri.
-    Jr Data Analyst & People Analyst
+# Hi, I'm Santiago Lingeri 👋
+## *Jr Data Analyst & People Analyst*
 
 ## About me
 
@@ -23,10 +21,10 @@
 
 [![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white&labelColor=black)](https://pandas.pydata.org/)</br>
 
-[![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=openai&logoColor=white&labelColor=black)](https://pandas.pydata.org/)</br>
-
-## Contact me :smile:
+## Contact me 😃
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin)](https://www.linkedin.com/in/SantiagoLingeri)
 
-## Follow my work 📈
+## My Public Dashboards & Visualizations 📈
+
+
