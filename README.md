@@ -9,14 +9,15 @@
 
 ## Skills
 
-[![Power BI](https://img.shields.io/badge/Power%20BI-yellow?style=for-the-badge&logo=powerbi&logocolor=yellow&labelColor=grey)](https://powerbi.microsoft.com/)</br>
+[![Power BI](https://img.shields.io/badge/Power%20BI-yellow?style=for-the-badge&logo=powerbi&logocolor=yellow&labelColor=black)](https://powerbi.microsoft.com/)</br>
 
-[![Python](https://img.shields.io/badge/Python-blue?style=for-the-badge&logo=python&logocolor=white&labelColor=grey)](https://powerbi.microsoft.com/)</br>
+[![Python](https://img.shields.io/badge/Python-blue?style=for-the-badge&logo=python&logocolor=white&labelColor=black)](https://powerbi.microsoft.com/)</br>
 
-
+[![Excel](https://img.shields.io/badge/MS%20Excel-217346?style=for-the-badge&logo=microsoftexcel&logocolor=white&labelColor=black)]
+(https://www.microsoft.com/en-us/microsoft-365/excel)</br>
 
 [![Python](https://img.shields.io/badge/Python-3.x-blue?logo=python)](https://www.python.org/)
-    [![Excel](https://img.shields.io/badge/Excel-2016-green?logo=microsoft-excel)](https://www.microsoft.com/en-us/microsoft-365/excel)
+[![Excel](https://img.shields.io/badge/Excel-217346?logo=microsoftexcel)](https://www.microsoft.com/en-us/microsoft-365/excel)
 
 [![Power BI](https://img.shields.io/badge/Power%20BI-Desktop-yellow?logo=power-bi)](https://powerbi.microsoft.com/)
 [![Tableau](https://img.shields.io/badge/Tableau-Data%20Visualization-blueviolet?logo=tableau)](https://www.tableau.com/)
