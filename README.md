@@ -17,7 +17,7 @@
 
 [![SQL](https://img.shields.io/badge/SQL-4285F4?style=for-the-badge&logo=googlecloud&logoColor=4285F4&labelColor=black)](https://www.microsoft.com/en-us/sql-server)</br>
 
-[![MySQL](https://img.shields.io/badge/My%20SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=4479A1&labelColor=black)](https://www.microsoft.com/en-us/sql-server)</br>
+[![MySQL](https://img.shields.io/badge/My%20SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white&labelColor=black)](https://www.microsoft.com/en-us/sql-server)</br>
 
 
 [![Python](https://img.shields.io/badge/Python-3.x-blue?logo=python)](https://www.python.org/)
