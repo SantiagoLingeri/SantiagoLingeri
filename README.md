@@ -11,11 +11,11 @@
 
 [![Power BI](https://img.shields.io/badge/Power%20BI-yellow?style=for-the-badge&logo=powerbi&logoColor=yellow&labelColor=black)](https://powerbi.microsoft.com/)</br>
 
-[![Python](https://img.shields.io/badge/Python-blue?style=for-the-badge&logo=python&logoColor=white&labelColor=black)](https://powerbi.microsoft.com/)</br>
+[![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=3776AB&labelColor=black)](https://powerbi.microsoft.com/)</br>
 
-[![Excel](https://img.shields.io/badge/MS%20Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white&labelColor=black)](https://www.microsoft.com/en-us/microsoft-365/excel)</br>
+[![Excel](https://img.shields.io/badge/MS%20Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=217346&labelColor=black)](https://www.microsoft.com/en-us/microsoft-365/excel)</br>
 
-[![SQL](https://img.shields.io/badge/SQL-0700C4?style=for-the-badge&logo=googlecloud&logoColor=white&labelColor=black)](https://www.microsoft.com/en-us/sql-server)</br>
+[![SQL](https://img.shields.io/badge/SQL-4285F4?style=for-the-badge&logo=googlecloud&logoColor=4285F4&labelColor=black)](https://www.microsoft.com/en-us/sql-server)</br>
 
 
 
