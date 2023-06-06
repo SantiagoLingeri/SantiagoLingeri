@@ -1,3 +1,5 @@
+![image](https://github.com/SantiagoLingeri/SantiagoLingeri/assets/85772100/19683cc5-65c5-4a42-8a8c-0ac69b470523)
+
 #                                                                        Hi, I'm Santiago Lingeri 👋
 
 
@@ -28,3 +30,5 @@ As a **People Analyst**, I strongly believe that improving people's everyday exp
 
 [![Power BI](https://img.shields.io/badge/Follow%20My%20Work-D4AF37?style=for-the-badge&logo=powerbi&logoColor=D4AF37&labelColor=black)](https://powerbi.microsoft.com/)</br>
 [![Tableau](https://img.shields.io/badge/Follow%20My%20Work-E97627?style=for-the-badge&logo=tableau&logoColor=E97627&labelColor=black)](https://www.tableau.com/)</br>
+
+
