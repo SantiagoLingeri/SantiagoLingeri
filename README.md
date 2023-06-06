@@ -9,7 +9,7 @@
 
 My Data tools
 
-[!Power BI](https://img.shields.io/badge/powerbi-#F2C811?style=for-the-badge&logo=powerbi&logocolor=ECC846&labelcolor=101010)</br>
+![Power BI](https://img.shields.io/badge/powerbi-#F2C811?style=for-the-badge&logo=powerbi&logocolor=ECC846&labelcolor=101010)</br>
 
 
 
