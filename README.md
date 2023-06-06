@@ -11,6 +11,8 @@ My Data tools
 
 [![Power BI](https://img.shields.io/badge/Power%20BI-yellow?style=for-the-badge&logo=powerbi&logocolor=yellow&labelColor=grey)](https://powerbi.microsoft.com/)</br>
 
+[![Python](https://img.shields.io/badge/Python-grey?style=for-the-badge&logo=python&logocolor=white&labelColor=101010)](https://powerbi.microsoft.com/)</br>
+
 
 
 [![Python](https://img.shields.io/badge/Python-3.x-blue?logo=python)](https://www.python.org/)
