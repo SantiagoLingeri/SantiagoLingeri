@@ -15,7 +15,8 @@
 
 [![Excel](https://img.shields.io/badge/MS%20Excel-217346?style=for-the-badge&logo=microsoftexcel&logocolor=white&labelColor=black)](https://www.microsoft.com/en-us/microsoft-365/excel)</br>
 
-[![SQL](https://img.shields.io/badge/SQL-0700C4?style=for-the-badge&?logo=data:image/png;base64,![image](https://github.com/SantiagoLingeri/SantiagoLingeri/assets/85772100/d2318b00-5ffd-4f31-9215-d1dbd762f990)&logocolor=white&labelcolor=black)](https://www.microsoft.com/en-us/microsoft-365/excel)</br>
+[![SQL](https://img.shields.io/badge/SQL-0700C4?style=for-the-badge&?logo=data:image/png;base64,![image](https://github.com/SantiagoLingeri/SantiagoLingeri/assets/85772100/b8874a5e-fa09-4ed2-8a99-c51c81651f6e)
+&logocolor=white&labelcolor=black)](https://www.microsoft.com/en-us/microsoft-365/excel)</br>
 
 
 [![Python](https://img.shields.io/badge/Python-3.x-blue?logo=python)](https://www.python.org/)
@@ -32,11 +33,3 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin)](https://www.linkedin.com/in/SantiagoLingeri)
 
 ## Follow my work 📈
-
-![Power BI](https://img.shields.io/badge/PowerBi-ECC846?style=for-the-badge&logo=PowerBi&logocolor=ECC846&labelcolor=101010</br>
-
-[![Tableau](https://img.shields.io/badge/Tableau-Public%20Profile-blueviolet?logo=tableau)](https://public.tableau.com/profile/your-tableau-username)
-
-
-https://img.shields.io/badge/<Data Analytics>-<✅>-<inactive>
-![image](https://github.com/SantiagoLingeri/SantiagoLingeri/assets/85772100/778feb73-baea-4883-bc9b-d0163f9953c9)
