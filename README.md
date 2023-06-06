@@ -19,6 +19,8 @@
 
 [![MySQL](https://img.shields.io/badge/My%20SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white&labelColor=black)](https://www.microsoft.com/en-us/sql-server)</br>
 
+[![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=E97627&labelColor=black)](https://www.tableau.com/)</br>
+
 
 [![Python](https://img.shields.io/badge/Python-3.x-blue?logo=python)](https://www.python.org/)
 [![Excel](https://img.shields.io/badge/Excel-217346?logo=microsoftexcel)](https://www.microsoft.com/en-us/microsoft-365/excel)
