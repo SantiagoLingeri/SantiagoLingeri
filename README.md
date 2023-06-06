@@ -15,7 +15,8 @@
 
 [![Excel](https://img.shields.io/badge/MS%20Excel-217346?style=for-the-badge&logo=microsoftexcel&logocolor=white&labelColor=black)](https://www.microsoft.com/en-us/microsoft-365/excel)</br>
 
-[![SQL](https://img.shields.io/badge/SQL-0700C4?style=for-the-badge&?logo=data:image/png;base64,https://e7.pngegg.com/pngimages/343/191/png-clipart-database-computer-icons-microsoft-sql-server-database-miscellaneous-black.png&logocolor=white&labelcolor=black)](https://www.microsoft.com/en-us/microsoft-365/excel)</br>
+[![SQL](https://img.shields.io/badge/SQL-0700C4?style=for-the-badge&?logo=data:image/png;base64,![image](https://github.com/SantiagoLingeri/SantiagoLingeri/assets/85772100/d2318b00-5ffd-4f31-9215-d1dbd762f990)&logocolor=white&labelcolor=black)](https://www.microsoft.com/en-us/microsoft-365/excel)</br>
+
 
 [![Python](https://img.shields.io/badge/Python-3.x-blue?logo=python)](https://www.python.org/)
 [![Excel](https://img.shields.io/badge/Excel-217346?logo=microsoftexcel)](https://www.microsoft.com/en-us/microsoft-365/excel)
