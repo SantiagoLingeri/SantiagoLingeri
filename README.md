@@ -13,8 +13,7 @@
 
 [![Python](https://img.shields.io/badge/Python-blue?style=for-the-badge&logo=python&logocolor=white&labelColor=black)](https://powerbi.microsoft.com/)</br>
 
-[![Excel](https://img.shields.io/badge/MS%20Excel-217346?style=for-the-badge&logo=microsoftexcel&logocolor=white&labelColor=black)]
-(https://www.microsoft.com/en-us/microsoft-365/excel)</br>
+[![Excel](https://img.shields.io/badge/MS%20Excel-217346?style=for-the-badge&logo=microsoftexcel&logocolor=white&labelColor=black)](https://www.microsoft.com/en-us/microsoft-365/excel)</br>
 
 [![Python](https://img.shields.io/badge/Python-3.x-blue?logo=python)](https://www.python.org/)
 [![Excel](https://img.shields.io/badge/Excel-217346?logo=microsoftexcel)](https://www.microsoft.com/en-us/microsoft-365/excel)
