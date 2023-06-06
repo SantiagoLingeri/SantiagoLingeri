@@ -9,6 +9,10 @@
 
 My Data tools
 
+![Power BI](https://img.shields.io/badge/PowerBi-ECC846?style=for-the-badge&logo=PowerBi&logocolor=ECC846&labelcolor=101010</br>
+
+
+
 [![Python](https://img.shields.io/badge/Python-3.x-blue?logo=python)](https://www.python.org/)
     [![Excel](https://img.shields.io/badge/Excel-2016-green?logo=microsoft-excel)](https://www.microsoft.com/en-us/microsoft-365/excel)
 
@@ -24,7 +28,7 @@ My Data tools
 
 ## Follow my work 📈
 
-[![Power BI](https://img.shields.io/badge/Power%20BI-Public%20Work-yellow?logo=power-bi)](https://app.powerbi.com/groups/me/apps/your-public-work-id/dashboards)
+![Power BI](https://img.shields.io/badge/PowerBi-ECC846?style=for-the-badge&logo=PowerBi&logocolor=ECC846&labelcolor=101010</br>
 
 [![Tableau](https://img.shields.io/badge/Tableau-Public%20Profile-blueviolet?logo=tableau)](https://public.tableau.com/profile/your-tableau-username)
 
