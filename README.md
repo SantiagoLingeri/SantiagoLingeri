@@ -9,7 +9,7 @@
 
 My Data tools
 
-[![Power BI](https://img.shields.io/badge/PowerBI-.-grey?style=for-the-badge&logo=powerbi&logocolor=F2C811&labelColor=101010)](url de la pagina que quiero)</br>
+[![Power BI](https://img.shields.io/badge/PowerBI-white?style=for-the-badge&logo=powerbi&logocolor=F2C811&labelColor=101010)](url de la pagina que quiero)</br>
 
 
 
