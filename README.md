@@ -1,4 +1,4 @@
-<img src="https://github.com/SantiagoLingeri/SantiagoLingeri/assets/85772100/5b342c4d-3dbb-4b2f-9751-cc20ded0c80a" width="50%" height="50%">
+<img src="https://github.com/SantiagoLingeri/SantiagoLingeri/assets/85772100/5b342c4d-3dbb-4b2f-9751-cc20ded0c80a" width="900" height="300">
 
 #                                                                        Hi, I'm Santiago Lingeri 👋
 
